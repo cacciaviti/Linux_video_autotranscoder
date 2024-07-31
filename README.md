@@ -20,7 +20,8 @@ Just run "mp4toresolve.sh" and provide a suitable video file. <br />
 
 ## Convert back videos exported from resolve to H264
 If you are using Davinci Resolve you may want to have a H264 version of the video you just exported to watch them on more devices like phones, TVs, players, etc. <br />
-!!IMPORTANT!! Make sure you are exporting your video from resolve as DNxHD, otherwhise it may not work as expected. <br />
+#### !!IMPORTANT!! <br />
+Make sure you are exporting your video from resolve as DNxHD, otherwhise it may not work as expected. <br />
 
 ![immagine](https://github.com/user-attachments/assets/2f81d7ed-5bef-448c-83eb-cdf73b735a42)
 
