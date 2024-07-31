@@ -31,4 +31,4 @@ Just run "DNxHDtomp4.sh" and provide a suitable video file exported from Davinci
 
 
 
-The scripts to prepare videos in h264/5 for Davinci Resolve are based partially on [this]([https://wiki.archlinux.org/title/Main_page)](https://www.google.com](https://wiki.archlinux.org/title/DaVinci_Resolve#Workaround_for_DaVinci_Resolve_Free) paragraph of the [Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page), while the script to convert the Resolve-exported video is made entirely by me :)
+The scripts to prepare videos in h264/5 for Davinci Resolve are based partially on [this]([https://wiki.archlinux.org/title/Main_page)](https://www.google.com](https://wiki.archlinux.org/title/DaVinci_Resolve#Workaround_for_DaVinci_Resolve_Free) paragraph of the [Arch Linux Wiki](https://wiki.archlinux.org/title/Main_page) while the script to convert the Resolve-exported video is made entirely by me :)
